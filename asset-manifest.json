@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shin-kong-explosion-counter/static/css/main.f855e6bc.css",
+    "main.js": "/shin-kong-explosion-counter/static/js/main.985c4837.js",
+    "static/js/453.55210adf.chunk.js": "/shin-kong-explosion-counter/static/js/453.55210adf.chunk.js",
+    "static/media/logo.svg": "/shin-kong-explosion-counter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shin-kong-explosion-counter/index.html",
+    "main.f855e6bc.css.map": "/shin-kong-explosion-counter/static/css/main.f855e6bc.css.map",
+    "main.985c4837.js.map": "/shin-kong-explosion-counter/static/js/main.985c4837.js.map",
+    "453.55210adf.chunk.js.map": "/shin-kong-explosion-counter/static/js/453.55210adf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.985c4837.js"
+  ]
+}
