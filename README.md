@@ -1,1 +1,1 @@
-An counter for how much time has elapsed since the Shin Kong Explosion happened.
+An counter for how much time has elapsed since the Shin Kong Explosion happened in Taichung, Taiwan.
